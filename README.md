@@ -24,9 +24,8 @@ This is a responsive web application for viewing in both Mobile and Desktop.
      cd your_path/NeutralPathMovieApp
 #### Step 3: Install Node.js dependencies:
      npm install        
-#### Step 4: Set your api key environment variable(.env). Get an api key from  [TheMovieDb](https://www.themoviedb.org/)
-     REACT_APP_API_KEY=your_api_key
-#### Step 5:
+
+#### Step 4:
       rm package-lock.json && npm install
       npm audit fix --force
       npm start
