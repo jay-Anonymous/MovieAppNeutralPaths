@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/65393068/150742272-f88c16e0-3aae-4990-be68-f6f4e393277e.png)
 
 
-A Simple Movie Application using React JS ,allows the user to search and filter movies they want  from the MovieDB API
+A Simple Movie Application using React JS ,allows the user to search and filter movies they want  from the Rapid MovieDB API
 
 For UI creation HTML5 and CSS3 and material-UI are used
 
